@@ -3,11 +3,7 @@
   "description": "Laravel wizard installer package",
   "type": "library",
   "require": {
-    "php": "^8.0",
-    "ext-pdo": "*",
-    "ext-json": "*",
-    "laravel/framework": "^9.0",
-    "dacoto/laravel-setenv": "^2.2"
+    "php": "^8.4"
   },
   "autoload": {
     "psr-4": {
